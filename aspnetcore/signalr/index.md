@@ -19,4 +19,5 @@ uid: signalr/index
 * [JavaScript client](xref:signalr/javascript-client)
 * [.NET client](xref:signalr/dotnet-client)
 * [Publish to Azure](xref:signalr/publish-to-azure-web-app)
+* [Streaming](xref:signalr/streaming)
 * [Supported platforms](xref:signalr/supported-platforms)
