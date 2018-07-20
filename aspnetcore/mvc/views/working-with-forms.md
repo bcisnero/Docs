@@ -102,7 +102,7 @@ The `Input` Tag Helper sets the HTML `type` attribute based on the .NET type. Th
 |---|---|
 |Bool|type=”checkbox”|
 |String|type=”text”|
-|DateTime|type=”datetime”|
+|DateTime|type=”datetime-local”|
 |Byte|type=”number”|
 |Int|type=”number”|
 |Single, Double|type=”number”|
